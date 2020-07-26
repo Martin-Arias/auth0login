@@ -1,1 +1,15 @@
 /* You can add global styles to this file, and also import other style files */
+.__nav{
+    background-color: #31263c !important
+}
+
+
+
+body{
+    color: #c1b5a4 !important;
+    background-color: #1c2023;
+}
+
+pre{
+    color: #c1b5a4 !important;
+}
